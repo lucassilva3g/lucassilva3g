@@ -22,7 +22,7 @@ I'm currently studying and improving myself as a frontend developer with React
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucassilva3g)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucassilva3g&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucassilva3g)](https://github.com/anuraghazra/github-readme-stats)
 
 ##### Connect with me!
 <p align="left">
