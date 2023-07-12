@@ -1,8 +1,7 @@
 # Hi Dev! I'm Lucas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm currently studying and improving myself as a frontend developer with React
-<br/><br/>
-<br/><br/>
+<br/>
 
 ##### Technology Stack
 
